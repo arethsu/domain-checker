@@ -1,0 +1,6 @@
+*.DS_Store
+.idea/
+
+dicts/
+failure_list.txt
+success_list.txt
